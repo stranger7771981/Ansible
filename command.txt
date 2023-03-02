@@ -1,0 +1,4 @@
+ansible-playbook -i hosts.yml playbook_setup_app.yml -K
+
+- K password
+- i inventory
